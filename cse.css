@@ -1,0 +1,69 @@
+
+  #container { height: 110px; margin-bottom: 0}
+
+  #searchbox { width: 385px;}
+
+  .sborder {background-image: url('images/search.png');height: 26px;width: 271px;float: left;}          
+
+  .sbutton {width: 105px;float: right;}
+
+  .btnsearch {margin-top: 1px;width: 80px;height: 23px;cursor: pointer; }
+
+  .search,.outsearch {margin: 4px 0 0 0;height: 16px;width: 250px;border: #FFFFFF solid 0; color: #000000;font-style:normal; }
+
+  .outsearch {font-style:normal;color: #AAAAAA;font-weight:bold;}
+
+  .btnclear {font-family: arial;font-size: 1.4em;font-weight: bold;float: right;margin: 0;padding: 0;width: 10px;cursor: pointer;}       
+
+  #content {position: relative;margin: auto;padding:0 ;width: 618px}
+
+  #sizebar { position: absolute; top:0; left:0; margin: 0; padding:0; width: 32px; height: 191px; font-size: 0.9em; font-weight: bold; font-family: arial; display: none; background: url('images/sizebar.png') top right no-repeat; }
+
+  #sizebar ul { padding:0; display: block; width: 16px; margin: 4px auto; list-style-type: none;}
+
+  #sizebar li, .sizeOFF { padding: 2px 4px; margin:auto; margin-top:1px; color: #a8b5c5; cursor: pointer; background: #f0f3f9; border: #c8d5e7 solid 1px;}
+
+  #sizebar .sizeON { color: #000000; background: #FFFFFF;}
+
+  #tabbar {width: 544px;height: 23px;padding: 0px;margin: auto;}
+
+  .tab { width: 112px;height: 17px;padding:0; float: left;cursor:pointer;font-size: 14px;line-height:14px;letter-spacing: 1px;font-family: arial;font-weight: bold;background: top;margin: 0 5px;margin-top: 5px; }   
+
+  #contentbar{width: 532px;margin: auto;padding: 0 10px;border: #dae3f0 solid 1px;min-height: 200px;height: auto !important;height: 200px;border-top: 0;border-bottom: 0;background: url('images/top.png') top left repeat-x; }
+
+  #preloader {position: absolute;left: 230px;top: 50px;display: none}    
+
+  #topbar {width: 554px;height: 8px;padding: 0;margin: auto;font-size:5px;line-height:0;background: url('images/ttop.png') top left repeat-x; }
+
+  .lefttop, .righttop {float: left;width: 272px;height: 8px;padding:0;margin: 0;background: url('images/lefttop.png') top left no-repeat;}
+
+  .righttop {float:right;background: url('images/righttop.png') top right no-repeat;}
+
+  .leftbtm, .rightbtm {width: 554px;height: 10px;padding:0;background: url('images/leftbtm.png') top left no-repeat;}
+
+  .rightbtm {background: url('images/rightbtm.png') top right no-repeat;}
+
+  .linebtm {border-bottom: #dae3f0 solid 1px;height:10px;width:532px;padding: 0;margin: 0 11px; }   
+
+  #bottombar {width:554px;height: 10px;font-size:5px;line-height:0;margin: auto;padding:0; }
+
+  .gsresult{padding: 5px 5px;font-size: 0.9em;font-family: Veranda;margin: 0; }
+
+  a.gstitle, a.gstitle:visited {margin: 2px 0;text-decoration: none;color: #000bff;border: 0;font-weight: bold; }
+
+  a.gstitle:hover {border-bottom: #0000EE dotted 1px; }              
+
+  .gstextbox {color: #777777;padding-left: 5px;cursor: default; }       
+
+  a.gsvisibleUrl, a.gsvisibleUrl:visited {letter-spacing: 1px;text-decoration: none;font-size: 0.8em;color: #009900; }
+
+  a.gsvisibleUrl:hover {font-weight:bold;} 
+
+  #welcome_logo img{margin-top: 50px;margin-left: 20px;padding: 4px}
+
+  .morelink{color: #000;text-decoration: underline}
+
+  #ft {margin-top: 12px;color: #ccc;font-family: arial;font-size: 11px;margin-left: 230px}
+ 
+  #ft a{color: #ccc}
+
